@@ -3,6 +3,8 @@ A list of references to fun stuff to read or watch or interact with, related to 
 
 Stuff here don't have to be useful... but should be fun. :D
 
+For students who are currently taking Machine Learning at NYU Shanghai (Spring 2019), feel free to post an issue if there is a ML direction you would like to work for your project, I can try search for interesting articles for you and add to the list here. 
+
 ## Vision and Image:
 *interact*: quick draw with google: 
 https://quickdraw.withgoogle.com/
