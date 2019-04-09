@@ -36,4 +36,8 @@ https://experiments.withgoogle.com/ai/ai-duet/view/
 
 ## GAN:
 *blog*: on cool GAN applications: https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900
+
+*interact*: GAN training visualized: https://poloclub.github.io/ganlab/
+
 *interact*: anime girl generation: https://make.girls.moe/#/
+
